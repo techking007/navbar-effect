@@ -1,0 +1,10 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "groupings": [
+    {
+      "title": "Navigation UI",
+      "description": "Hover navbar flyout, mega menu preview, and chevron morph.",
+      "skills": ["navbar-effect"]
+    }
+  ]
+}
